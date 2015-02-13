@@ -1,0 +1,28 @@
+body{
+  background-color:#005A7A;
+}
+
+#footer-note{
+  color: white;
+}
+
+@media only screen and (max-width: 40em) {
+  #logo-container{
+    padding-top:20px;
+    padding-bottom: 40px;
+  }
+}
+
+@media only screen and (min-width: 40.063em) {
+  #logo-container{
+    padding-top:20px;
+    padding-bottom: 40px;
+  }
+}
+
+@media only screen and (min-width: 64.063em) and (max-width: 90em) {
+  #logo-container{
+      padding-top:200px;
+      padding-bottom: 50px;
+  }
+}

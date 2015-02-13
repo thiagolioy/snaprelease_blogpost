@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "AppsHouse": {
+            "applicationId": "",
+            "masterKey": ""
+        },
+        "_default": {
+            "link": ""
+        }
+    },
+    "global": {
+        "parseVersion": "1.3.2"
+    }
+}
