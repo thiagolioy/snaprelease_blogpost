@@ -1,2 +1,4 @@
 # snaprelease_blogpost
-Dummy snap release without real keys , to exemplify a blog post
+Dummy snaprelease service without real keys , to exemplify a blog post
+
+Check out production version here [Snaprelease](http://snaprelease.parseapp.com)
